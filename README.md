@@ -2,6 +2,7 @@
 [Link til challenge på FE's Linkedin](https://www.linkedin.com/posts/forsvarets-efterretningstjeneste_g%C3%A6t-g%C3%A6kkebrevets-hemmeligheder-og-vind-activity-7315681576565047298-m8GX)
 
 # Writeup
+#### Af Emil 'Dota' Bak
 ## Brev #1
 ![](media/brev1.jpeg)
 
@@ -43,5 +44,5 @@ Det andet hint fra **brev 2** påpeger at "selv Gauss kan fejle". Således hvis 
 Da ingen offentlig tilgængelig "easter-calculator" fandtes med den indbyggede 1800-fejl i sig, var løsningen at programere den selv. Se [solution.py](solution.py)
 
 ## Yderligere info
-* Til at udlede teksten fra brevene (fremfor at afskrive i hånden), benyttede jeg [https://www.imagetotext.info/](https://www.imagetotext.info/).
+* Til at udlede teksten fra brevene *(fremfor at afskrive i hånden, jeg er doven af natur)*, benyttede jeg [https://www.imagetotext.info/](https://www.imagetotext.info/).
 * [solution.py](solution.py)'s version af Gauss påske algoritme er selv-implementeret 1:1 efter algoritmen, som den står beskrevet på wikipedia: [https://en.wikipedia.org/wiki/Date_of_Easter#Gauss's_Easter_algorithm](https://en.wikipedia.org/wiki/Date_of_Easter#Gauss's_Easter_algorithm)

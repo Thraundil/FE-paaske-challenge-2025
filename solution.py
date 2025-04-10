@@ -1,4 +1,5 @@
 ### FE gækkebrev 2025
+### Af Emil 'Dota' Bak
 
 brev1 = [1956,1998,1953,1983,1998,1953,1956,1952,1956,1981]
 brev2A = [1956,1998,1985,1979,1954,1950,2003,1952,1953,1981,1979,1952,1985,1954,1957,1963,1999,1998,1956,1985,1998,1950,1985,1985,1953,1954]
@@ -45,23 +46,21 @@ def gauss_easter_date(year, error):
 list(map(lambda x: gauss_easter_date(x,False), brev1 + brev2A + brev2B))
 list(map(lambda x: gauss_easter_date(x,True), brev3))
 
-print ("Brev 1:")
+print ("\nBrev 1:")
 for x in brev1:
     print (oversigt_1816[x],end='')
 
-print ("\nBrev 2(A)")
+print ("\n\nBrev 2(A)")
 for x in brev2A:
     print (oversigt_1816[x],end='')
 
-print ("\nBrev 2(B)")
+print ("\n\nBrev 2(B)")
 for x in brev2B:
     print (oversigt_1816[x],end='')
-print ("")
 
-print ("\nBrev 3")
+print ("\n\nBrev 3")
 for x in brev3:
     print (oversigt_1800[x],end='')
-print ("")
 
 # alecleamas
 # algoritmesomgrundlagligger
