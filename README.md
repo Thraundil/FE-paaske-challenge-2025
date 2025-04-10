@@ -1,8 +1,6 @@
 # FE-paaske-challenge-2025
 [Link til challenge på FE's Linkedin](https://www.linkedin.com/posts/forsvarets-efterretningstjeneste_g%C3%A6t-g%C3%A6kkebrevets-hemmeligheder-og-vind-activity-7315681576565047298-m8GX)
 
-## Se `solution.py` for kode
-
 # Writeup
 ## Brev #1
 ![](media/brev1.jpeg)
